@@ -5,10 +5,15 @@ This is where I'll submit all the R scripts for my partitication grade in STAT 5
 \"cm[class #]-[class topic].R\"
 
 ### About Me
-My name is **Sarah Russell** and I'm here to hone my R skills\! I'm completing a M\.S\. in Geography studying carbon sequestration in tidal wetlands\, such as Burns Bog (seen below)\. This is my first year at UBC\.
-
- :earth_americas: 
- :ear_of_rice: 
- :ocean: 
+```R
+print("hello world!")
+}
+```
+* My name is **Sarah Russell**
+* I'm here to hone my R skills\! 
+* I'm completing an MS in Geography. 
+* I'm studying carbon sequestration in tidal wetlands\, such as Burns Bog (seen below)\. 
+* This is my first year at UBC\.
+* :earth_americas: :ear_of_rice: :ocean: 
  
 ![](http://www.vancouversun.com/technology/cms/binary/7176027.jpg?size=sw620x65)
