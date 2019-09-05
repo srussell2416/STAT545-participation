@@ -7,7 +7,6 @@ This is where I'll submit all the R scripts for my partitication grade in STAT 5
 ### About Me
 ```R
 print("hello world!")
-}
 ```
 * My name is **Sarah Russell**
 * I'm here to hone my R skills\! 
