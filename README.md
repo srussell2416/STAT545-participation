@@ -8,7 +8,7 @@ This is where I'll submit all the R scripts for my partitication grade in STAT 5
 ```R
 print("hello world!")
 ```
-* My name is **Sarah Russell**
+* My name is **Sarah Russell**\.
 * I'm here to hone my R skills\! 
 * I'm completing an MS in Geography. 
 * I'm studying carbon sequestration in tidal wetlands\, such as Burns Bog (seen below)\. 
