@@ -1,6 +1,6 @@
 # STAT 545 Participation Repository
 
-This is where I'll submit all the R scripts for my partitication grade in STAT 545, Winter Term 1, 2019\. The file names will follow this format:
+This is where I'll submit all the R scripts for my partitication grade in __STAT 545, Winter Term 1, 2019__\. The file names will follow this format:
 
 \"cm[class #]-[class topic].R\"
 
