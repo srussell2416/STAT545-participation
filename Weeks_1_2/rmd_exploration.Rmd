@@ -1,0 +1,25 @@
+---
+title: "Rmd Exploration"
+output:
+  html_document:
+    toc: true
+    number_sections: true
+    theme: cerulean
+---
+```{r load, warning=FALSE, echo=FALSE}
+library(tibble)
+library(gapminder)
+library(DT)
+```
+
+## Print out gapminder data
+```{r print}
+gapminder
+```
+## Convert mtcars to tibble
+```{r}
+datatable(as_tibble(mtcars))
+```
+<!-- this is a comment -->
+
+<!-- in class edit... -->

@@ -1,0 +1,21 @@
+---
+title: "Tibble Exploration"
+output: ioslides_presentation
+---
+```{r load, warning=FALSE, echo=FALSE}
+library(tibble)
+library(gapminder)
+library(DT)
+```
+
+## Print out gapminder data
+```{r print}
+gapminder
+```
+## Convert mtcars to tibble
+```{r}
+datatable(as_tibble(mtcars))
+```
+<!-- this is a comment -->
+
+<!-- in class edit... -->
