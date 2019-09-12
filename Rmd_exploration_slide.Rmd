@@ -17,3 +17,5 @@ gapminder
 datatable(as_tibble(mtcars))
 ```
 <!-- this is a comment -->
+
+<!-- in class edit... -->
