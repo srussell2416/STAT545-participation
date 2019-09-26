@@ -4,14 +4,14 @@ This is where I'll submit all the R scripts for my partitication grade in __STAT
 
 ### Table of Contents
 
-Class 1
-Class 2
-Class 3
-Class 4
-Class 5
-Class 6
-Class 7
-Class 8
+* Class 1
+* Class 2
+* Class 3
+* Class 4
+* Class 5
+* Class 6
+* Class 7
+* Class 8
 
 ### About Me
 ```R
